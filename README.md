@@ -112,7 +112,7 @@ return 0;
 }
 ```
 ## OUTPUT
-<img width="1439" height="834" alt="image" src="https://github.com/user-attachments/assets/ba5ac94f-80fd-436f-b832-8be8ae4c106a" />
+<img width="1612" height="880" alt="image" src="https://github.com/user-attachments/assets/13a9d367-ef16-4ac3-a5f9-97631cae7d8f" />
 
 ## RESULT
 Thus,The program this verified successfully.
